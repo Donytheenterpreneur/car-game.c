@@ -1,5 +1,4 @@
-// car-game.c
-//a simple car game
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
